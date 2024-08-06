@@ -36,9 +36,9 @@ nav {
 }
 
 .nav-content {
-    max-width: var(--max-width);
+    /* max-width: var(--max-width); */
     margin: auto;
-    padding: 1.5rem 1 rem;
+    /* padding: 1.5rem 1 rem; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -78,7 +78,7 @@ nav .checkbox i {
 }
 
 .navlist li a {
-    padding: 0.5 rem 1rem;
+    /* padding: 0.5 rem 1rem; */
     border: 2px solid transparent;
     text-decoration: none;
     font-weight: 600;
